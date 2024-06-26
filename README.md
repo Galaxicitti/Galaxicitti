@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Galaxy Rawat</h1>
 <h3 align="center">I have an insatiable passion for constantly starting new programming projects.</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fcoding&psig=AOvVaw0t77VtQ_BwSmfMr50PnCfC&ust=1719503851176000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCMi6lJnR-YYDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-angry-man-coding-u40xyqr26qyez70f.webp">
 - 📫 How to reach me **gvpg223@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
