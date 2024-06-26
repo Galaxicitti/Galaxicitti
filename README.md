@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Galaxy Rawat</h1>
 <h3 align="center">I have an insatiable passion for constantly starting new programming projects.</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fanandhunv%2Fanandhunv&psig=AOvVaw0KfxIKkr1jWulwQr53psIE&ust=1719503466474000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCNjdid_P-YYDFQAAAAAdAAAAABAJ">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fgirl-programmer&psig=AOvVaw3c8VsuZ1nns-zgXq1vaNid&ust=1719503752029000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCMiRlObQ-YYDFQAAAAAdAAAAABAE">
 - 📫 How to reach me **gvpg223@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
