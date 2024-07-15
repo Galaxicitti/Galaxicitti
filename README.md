@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Galaxy Rawat</h1>
-<h3 align="center">I have an insatiable passion for constantly starting new programming projects.</h3>
+<h3 align="center">I have a passionate for constantly starting new programming projects.I</h3>
 
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-angry-man-coding-u40xyqr26qyez70f.webp">
 - 📫 How to reach me **gvpg223@gmail.com**
