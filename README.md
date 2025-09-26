@@ -34,8 +34,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=galaxicitti&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="500" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=galaxicitti&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=tokyonight&hide_border=false" height="500" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=galaxicitti&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="700" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=galaxicitti&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=tokyonight&hide_border=false" height="700" alt="languages graph"  />
 </div>
 
 ###
