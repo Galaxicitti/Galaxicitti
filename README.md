@@ -40,16 +40,6 @@
 ###
 
 <div align="center">
-  <img height="301" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3BlbzhsZ29vNG1oc3ZtZXUzcHhvODJwNnd1emE3MmYwenE4MzN1NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/quEsMOrr3hmQ8/giphy.gif/Q9aBxHn9fTqKs/giphy.gif"  />
-</div>
-
-###
-
-
-
-###
-
-<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=galaxicitti.galaxicitti&"  />
 </div>
 
