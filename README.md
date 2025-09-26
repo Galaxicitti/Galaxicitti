@@ -45,11 +45,7 @@
 
 ###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/galaxicitti">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=galaxicitti&count=03" alt="Spotify recently played"  />
-  </a>
-</div>
+
 
 ###
 
