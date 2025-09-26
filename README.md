@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Galaxy Rawat</h1>
-<h3 align="center">I am passionate about constantly starting new programming projects.</h3>
+
 
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/animated-angry-man-coding-u40xyqr26qyez70f.webp">
 
@@ -32,7 +32,9 @@
     </a>
 </p>
 
+<img src="https://raw.githubusercontent.com/galaxicitti/galaxicitti/output/snake.svg" alt="Snake animation" />
 
+###
 
 <!--
 **Galaxicitti/Galaxicitti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
