@@ -7,27 +7,9 @@
         I enjoy converting messy data into meaningful products and learning new tools every week.
       </p>
     </div>
-    <div style="text-align:right;min-width:160px;">
-      <p style="margin:0;font-size:0.95rem;">📍 India</p>
-      <p style="margin:4px 0 0;font-size:0.9rem;">
-        <a href="https://galaxy-rawat-online.netlify.app/" target="_blank" rel="noopener">Portfolio</a> ·
-        <a href="https://linkedin.com/in/galaxy-rawat" target="_blank" rel="noopener">LinkedIn</a>
-      </p>
-    </div>
   </header>
-
   <hr style="margin:18px 0;border:none;border-top:1px solid #e6e6e6;" />
-
-
   <footer>
-    <div style="flex:1;min-width:240px;">
-      <h2 style="margin:0 0 8px;font-size:1.05rem;">🚀 Projects & Interests</h2>
-      <p style="margin:0;color:#333;">
-        Building an expense tracker, experimenting with crypto news sentiment analysis, and creating
-        interactive storytelling web experiences.
-      </p>
-    </div>
-    <footer style="margin-top:18px;font-size:0.95rem;color:#444;">
     <p style="margin:0;">
       📫 <strong>Contact</strong>: <a href="mailto:youremail@example.com">gvpg223@gmail.com</a> |
       🌐 <a href="https://galaxy-rawat-online.netlify.app/" target="_blank" rel="noopener">Portfolio</a>
