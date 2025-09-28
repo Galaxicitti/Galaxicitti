@@ -1,4 +1,16 @@
-<h1 align="center">Hi 👋! My name is Galaxy Rawat</h1>
+<section id="intro" style="font-family:system-ui,Segoe UI,Roboto,Helvetica,Arial,sans-serif;max-width:800px;margin:0 auto;padding:24px;">
+  <h1 style="margin:0 0 8px;">👋 Hi, I'm Galaxy Rawat</h1>
+  <p style="margin:0 0 12px;font-size:1.05rem;">
+    🚀 Passionate about <strong>Data Science, AI/ML</strong> and <strong>Full-stack Development</strong>.
+    I build data-driven apps, explore machine learning, and contribute to open source.
+  </p>
+  <p style="margin:0;font-size:0.95rem;">
+    🔭 Currently: learning advanced ML & working on portfolio projects.
+    📫 Reach me: <a href="mailto:youremail@example.com">gvpg223@gmail.com</a>
+    • 🌐 Portfolio: <a href="https://galaxy-rawat-online.netlify.app/" target="_blank" rel="noopener">galaxy-rawat-online.netlify.app</a>
+  </p>
+</section>
+
 
 ###
 
@@ -18,7 +30,7 @@
 
 ###
 
-<h2 align="center">📩 Email me: gvpg223@gmail.com</h2>
+
 
 ###
 
