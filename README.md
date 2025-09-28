@@ -8,7 +8,6 @@
       </p>
     </div>
   </header>
-  <hr style="margin:18px 0;border:none;border-top:1px solid #e6e6e6;" />
   <footer>
     <p style="margin:0;">
       📫 <strong>Contact</strong>: <a href="mailto:youremail@example.com">gvpg223@gmail.com</a> |
