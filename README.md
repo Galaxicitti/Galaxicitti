@@ -1,16 +1,50 @@
-<section id="intro" style="font-family:system-ui,Segoe UI,Roboto,Helvetica,Arial,sans-serif;max-width:800px;margin:0 auto;padding:24px;">
-  <h1 style="margin:0 0 8px;">👋 Hi, I'm Galaxy Rawat</h1>
-  <p style="margin:0 0 12px;font-size:1.05rem;">
-    🚀 Passionate about <strong>Data Science, AI/ML</strong> and <strong>Full-stack Development</strong>.
-    I build data-driven apps, explore machine learning, and contribute to open source.
-  </p>
-  <p style="margin:0;font-size:0.95rem;">
-    🔭 Currently: learning advanced ML & working on portfolio projects.
-    📫 Reach me: <a href="mailto:youremail@example.com">gvpg223@gmail.com</a>
-    • 🌐 Portfolio: <a href="https://galaxy-rawat-online.netlify.app/" target="_blank" rel="noopener">galaxy-rawat-online.netlify.app</a>
-  </p>
-</section>
+<section id="profile-readme" style="font-family:system-ui,Segoe UI,Roboto,Helvetica,Arial,sans-serif;max-width:900px;margin:0 auto;padding:28px;border-radius:12px;">
+  <header style="display:flex;align-items:center;gap:18px;">
+    <div style="flex:1;">
+      <h1 style="margin:0 0 6px;font-size:1.6rem;">👋 Hey, I'm <span style="color:#0b74de;">Galaxy Rawat</span></h1>
+      <p style="margin:0;color:#333;">
+        Data enthusiast & software developer — building ML models, data visualizations, and web apps.
+        I enjoy converting messy data into meaningful products and learning new tools every week.
+      </p>
+    </div>
+    <div style="text-align:right;min-width:160px;">
+      <p style="margin:0;font-size:0.95rem;">📍 India</p>
+      <p style="margin:4px 0 0;font-size:0.9rem;">
+        <a href="https://galaxy-rawat-online.netlify.app/" target="_blank" rel="noopener">Portfolio</a> ·
+        <a href="https://linkedin.com/in/your-linkedin" target="_blank" rel="noopener">LinkedIn</a>
+      </p>
+    </div>
+  </header>
 
+  <hr style="margin:18px 0;border:none;border-top:1px solid #e6e6e6;" />
+
+  <section aria-labelledby="skills" style="display:flex;gap:24px;flex-wrap:wrap;">
+    <div style="flex:1;min-width:240px;">
+      <h2 id="skills" style="margin:0 0 8px;font-size:1.05rem;">💻 Skills</h2>
+      <ul style="margin:0;padding-left:18px;color:#333;">
+        <li>Python • Pandas • NumPy • scikit-learn</li>
+        <li>Machine Learning • Deep Learning (basics)</li>
+        <li>JavaScript • React • Node.js • Flask</li>
+        <li>SQL • MySQL • Git • Docker</li>
+      </ul>
+    </div>
+
+    <div style="flex:1;min-width:240px;">
+      <h2 style="margin:0 0 8px;font-size:1.05rem;">🚀 Projects & Interests</h2>
+      <p style="margin:0;color:#333;">
+        Building an expense tracker, experimenting with crypto news sentiment analysis, and creating
+        interactive storytelling web experiences.
+      </p>
+    </div>
+  </section>
+
+  <footer style="margin-top:18px;font-size:0.95rem;color:#444;">
+    <p style="margin:0;">
+      📫 <strong>Contact</strong>: <a href="mailto:youremail@example.com">gvpg223@gmail.com</a> |
+      🌐 <a href="https://galaxy-rawat-online.netlify.app/" target="_blank" rel="noopener">Portfolio</a>
+    </p>
+  </footer>
+</section>
 
 ###
 
