@@ -3,7 +3,7 @@
     <div style="flex:1;">
       <h1 style="margin:0 0 6px;font-size:1.6rem;">👋 Hey, I'm <span style="color:#0b74de;">Galaxy Rawat</span></h1>
       <p style="margin:0;color:#333;">
-        Data enthusiast & software developer — building ML models, data visualizations, and web apps.
+        Data enthusiast & software developer - building ML models, data visualizations, and web apps.
         I enjoy converting messy data into meaningful products and learning new tools every week.
       </p>
     </div>
